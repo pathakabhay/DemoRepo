@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA8A-1908
+
+ Directory of C:\Users\HP\Desktop\SampleTest
+
+27-06-2021  21:53    <DIR>          .
+27-06-2021  21:53    <DIR>          ..
+27-06-2021  21:53                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  904,504,418,304 bytes free
